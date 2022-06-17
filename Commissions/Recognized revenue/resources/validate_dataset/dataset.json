@@ -1,0 +1,7 @@
+{
+  "transaction" : {
+    "channel" : "Indirect",
+    "amount" : 10000,
+    "product" : "Software"
+  }
+}
